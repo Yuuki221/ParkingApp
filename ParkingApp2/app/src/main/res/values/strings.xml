@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ParkingApp2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_time_loc_set">TimeLocSet</string>
+    <string name="title_activity_register_page">RegisterPage</string>
+    <string name="title_activity_pick_time_loc_duration">PickTimeLocDuration</string>
+    <string name="title_activity_prv_park_info">PrvParkInfo</string>
+    <string name="title_activity_choose_your_parking_location">Map</string>
+    <string name="title_activity_parking_info01">ParkingInfo01</string>
+    <string name="title_activity_parking_info02">ParkingInfo02</string>
+    <string name="title_activity_parking_info03">ParkingInfo03</string>
+    <string name="title_activity_parking_info04">ParkingInfo04</string>
+    <string name="title_activity_provide_your_parking_info">ProvideYourParkingInfo</string>
+</resources>
